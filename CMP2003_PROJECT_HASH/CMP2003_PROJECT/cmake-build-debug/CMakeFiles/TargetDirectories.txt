@@ -1,0 +1,3 @@
+/Users/onurcan/Downloads/CMP2003_PROJECT 7/cmake-build-debug/CMakeFiles/CMP2003_PROJECT.dir
+/Users/onurcan/Downloads/CMP2003_PROJECT 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/onurcan/Downloads/CMP2003_PROJECT 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
